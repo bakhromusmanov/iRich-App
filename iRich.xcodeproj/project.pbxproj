@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D067689C2C2731C00091B950 /* I am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D067689C2C2731C00091B950 /* iRich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iRich.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D067689F2C2731C00091B950 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D06768A12C2731C00091B950 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		D06768A32C2731C00091B950 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		D067689D2C2731C00091B950 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D067689C2C2731C00091B950 /* I am Rich.app */,
+				D067689C2C2731C00091B950 /* iRich.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D067689B2C2731C00091B950 /* I am Rich */ = {
+		D067689B2C2731C00091B950 /* iRich */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D06768B02C2731C20091B950 /* Build configuration list for PBXNativeTarget "I am Rich" */;
+			buildConfigurationList = D06768B02C2731C20091B950 /* Build configuration list for PBXNativeTarget "iRich" */;
 			buildPhases = (
 				D06768982C2731C00091B950 /* Sources */,
 				D06768992C2731C00091B950 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "I am Rich";
+			name = iRich;
 			productName = "I am Rich";
-			productReference = D067689C2C2731C00091B950 /* I am Rich.app */;
+			productReference = D067689C2C2731C00091B950 /* iRich.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D06768972C2731C00091B950 /* Build configuration list for PBXProject "I am Rich" */;
+			buildConfigurationList = D06768972C2731C00091B950 /* Build configuration list for PBXProject "iRich" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D067689B2C2731C00091B950 /* I am Rich */,
+				D067689B2C2731C00091B950 /* iRich */,
 			);
 		};
 /* End PBXProject section */
@@ -354,7 +354,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D06768972C2731C00091B950 /* Build configuration list for PBXProject "I am Rich" */ = {
+		D06768972C2731C00091B950 /* Build configuration list for PBXProject "iRich" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D06768AE2C2731C20091B950 /* Debug */,
@@ -363,7 +363,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D06768B02C2731C20091B950 /* Build configuration list for PBXNativeTarget "I am Rich" */ = {
+		D06768B02C2731C20091B950 /* Build configuration list for PBXNativeTarget "iRich" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D06768B12C2731C20091B950 /* Debug */,
